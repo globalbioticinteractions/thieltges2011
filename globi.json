@@ -3,8 +3,8 @@
 "format": "hechinger",
 "delimiter": ",",
 "resources": {
-"nodes": "http://esapubs.org/archive/ecol/E092/172/Sylt_Data_Nodes.csv",
-"links": "http://esapubs.org/archive/ecol/E092/172/Sylt_Data_Links.csv"
+"nodes": "Sylt_Data_Nodes.csv",
+"links": "Sylt_Data_Links.csv"
 },
 "location": {
 "locale": "Sylt tidal basin, an intertidal ecosystem in Germany and Denmark",
